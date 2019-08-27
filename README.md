@@ -2,6 +2,7 @@
 IDEAF is a text to speech app.
 
 BUILD TOOL
-*Java
-*Android SDK
-*Google Speech
+
+Java
+Android SDK
+Google Speech
